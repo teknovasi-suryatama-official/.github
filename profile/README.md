@@ -1,5 +1,5 @@
 # Teknovasi Suryatama Indonesia
-Teknovasi Suryatama memiliki filosofi inovation dan penggagas solusi paling terdepan dalam teknologi khususnya bidang software tools, di gagas tahun 2023
+Teknovasi Suryatama memiliki filosofi `inovation` dan `penggagas solusi` (Surya seperti cahaya matahari yang selalu memberikan manfaat) paling terdepan dalam teknologi khususnya bidang software tools, di gagas tahun 2023
 
 ## Target this years, start project 2024
 
