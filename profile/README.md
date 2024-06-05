@@ -7,3 +7,5 @@ Teknovasi Suryatama memiliki filosofi inovation dan penggagas solusi paling terd
 - [ ] Aplikasi Point of Sales - Target Web
 - [ ] Aplikasi Koperasi - Target Web
 - [ ] Aplikasi Rekam Medis - Target Web
+
+Copyright &copy; 2024 Teknovasi Suryatama. All right reserved.
